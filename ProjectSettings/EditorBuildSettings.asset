@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Menu.unity
+    guid: d29ae3cbbca939946a2232f1076a5e64
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Intro Story.unity
+    guid: 7b379c27620c20d45a25796c97009e3d
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Intro.unity
+    guid: 84a49ec21fcb9e0489ef212064fc1d05
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Main.unity
+    guid: 442aba0fb93c6284d96ed2706b8a0b82
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Main_1.unity
+    guid: 76e1517dc23145f448b026657daa3eb1
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Main_2.unity
+    guid: de2f048aa0f08aa46b4f99cd1e29cf3c
+  - enabled: 1
+    path: Assets/Creator Kit - RPG/Scenes/Epilogue.unity
+    guid: 5c357c8042f32ec4cac46d5eaf22c7ea
+  m_configObjects: {}
